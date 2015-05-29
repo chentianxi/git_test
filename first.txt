@@ -1,3 +1,7 @@
 1.I want to learn git.i like.
 2.update
+<<<<<<< HEAD
 3.chongtu2.
+=======
+3.look chongtu
+>>>>>>> feature1
